@@ -1,10 +1,10 @@
 <h1>Hi there 👋</h1>
 <img src="header.png">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;DevSecOps++;Full+Stack+Developer;Computer+Science+Student;CTF+Newbie;"></a>
+  <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;DevSecOps++;Full+Stack+Developer;Computer+Science+Student;CTF+Newbie;"></a>
 </p>
 <div style = "margin-bottom:10px;">
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px style = "padding-right:20px"></picture><h1 style = "display: inline;">About Me</h1>
+<picture><img src = "about_me.gif" width = 50px style = "padding-right:20px"></picture><h1 style = "display: inline;">About Me</h1>
 </div>
 
 <hr>
