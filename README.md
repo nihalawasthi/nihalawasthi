@@ -1,33 +1,75 @@
-<h1 align="center">Hi there 👋</h1>
-<div align="center">
-![Header](header.png)
+<h1>Hi there 👋</h1>
+<img src="header.png">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;DevSecOps++;Full+Stack+Developer;Computer+Science+Student;CTF+Newbie;"></a>
+</p>
+<div style = "margin-bottom:10px;">
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px style = "padding-right:20px"></picture><h1 style = "display: inline;">About Me</h1>
+</div>
+
+<hr>
+
 Cybersecurity professional with a passion for protecting systems and data from unauthorized access. Experienced in vulnerability assessment, penetration testing, and incident response. Proven ability to identify and mitigate security risks.
 
-Technical Skills:
+<hr>
 
-Programming languages: Python, Java, C++
-Operating systems: Windows, Linux, macOS
-Networking: TCP/IP, OSI model
-Security tools: Nmap, Nessus, Burp Suite
-Experience:
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-Vulnerability Analyst at Acme Corporation, 2022-Present
+<p align="center">
 
-Conducted vulnerability assessments and penetration tests on internal and external systems
-Developed and implemented security remediation plans
-Provided security awareness training to employees
-Security Intern at XYZ Technologies, 2021
+- **Languages** :
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-Assisted with vulnerability assessments and penetration tests
-Researched and reported on emerging security threats
-Developed a security awareness training program for interns
-Education:
+<br>   
 
-Master of Science in Cybersecurity from Stanford University, 2020
-Bachelor of Science in Computer Science from University of California, Berkeley, 2018
-Awards and Recognition:
+- **Operating Systems** :
+    
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-Cybersecurity Scholarship from the National Science Foundation, 2020
-Dean's List at Stanford University, 2019
-In addition to my technical skills and experience, I am also a creative thinker and problem solver. I am passionate about cybersecurity and I am always looking for new ways to improve security practices. I am also a team player and I am always willing to help others.
+<br>   
+    
+- **Front-End Development** :
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting** :
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools** :
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+- **Extras**:
+
+    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+</p>
+
+<br>
+<br>
+
 </div>
