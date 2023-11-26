@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./[header.png])
+![Header]([header.png])
 Cybersecurity professional with a passion for protecting systems and data from unauthorized access. Experienced in vulnerability assessment, penetration testing, and incident response. Proven ability to identify and mitigate security risks.
 
 Technical Skills:
