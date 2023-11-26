@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<div align="center">
 ![Header](header.png)
 Cybersecurity professional with a passion for protecting systems and data from unauthorized access. Experienced in vulnerability assessment, penetration testing, and incident response. Proven ability to identify and mitigate security risks.
 
@@ -29,18 +30,4 @@ Awards and Recognition:
 Cybersecurity Scholarship from the National Science Foundation, 2020
 Dean's List at Stanford University, 2019
 In addition to my technical skills and experience, I am also a creative thinker and problem solver. I am passionate about cybersecurity and I am always looking for new ways to improve security practices. I am also a team player and I am always willing to help others.
-
-<!--
-**nihalawasthi/nihalawasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
