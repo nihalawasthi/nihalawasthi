@@ -5,7 +5,7 @@
 </p>
 <div style="display: flex; margin-bottom: 10px;">
   <img src="about_me.gif" width="50px" style="margin-right: 20px;">
-  <h1 style="display: inline;">About Me</h1>
+  <h1>About Me</h1>
 </div>
 
 <hr>
