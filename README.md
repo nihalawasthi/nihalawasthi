@@ -4,7 +4,8 @@
   <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;DevSecOps++;Full+Stack+Developer;Computer+Science+Student;CTF+Newbie;"></a>
 </p>
 <div style = "margin-bottom:10px;">
-<h1 style = "display: inline;">About Me</h1><picture style = "display: inline;"><img src = "about_me.gif" width = 50px style = "padding-left:20px;"></picture>
+<h1 style = "display: inline;">About Me</h1>
+<img src = "about_me.gif" width = 50px style = "display: inline; padding-left:20px;">
 </div>
 
 <hr>
