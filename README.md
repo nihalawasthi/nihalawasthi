@@ -11,7 +11,7 @@
 
 <hr>
 
-Cybersecurity professional with a passion for protecting systems and data from unauthorized access. Experienced in vulnerability assessment, penetration testing, and incident response. Proven ability to identify and mitigate security risks.
+I'm a CyberSecurity student at VIT Bhopal university India with a passion for Ethical Hacking, Blockchains, and Reverse Engineering. I am also a Python, Web3 developer. There are many things i love related to IT and fun.
 
 <hr>
 
