@@ -82,4 +82,10 @@ I'm a CyberSecurity student at VIT Bhopal university India with a passion for Et
 <br>
 <br>
 
+<hr>
+
+<h2>GitHub Trophies</h2>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nihalawasthi)
+
 </div>
