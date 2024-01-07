@@ -1,6 +1,6 @@
 <img src="header.png">
 <p align="center">
-  <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;DevSecOps++;Full+Stack+Developer;CTF+Newbie;"></a>
+  <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;I+am;Computer+Science+Student;DevSecOps++;Full+Stack+Developer;CTF+Newbie;"></a>
 </p>
 
 <div style = "margin-bottom:10px;"><h1>
