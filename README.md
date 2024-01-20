@@ -14,9 +14,9 @@ I'm a CyberSecurity student at VIT Bhopal university India with a passion for Et
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalawasthi&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150" width="45%" alt="GitHub Stats"   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=highcontrast&hide_border=false" height="150" width="45%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalawasthi&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalawasthi&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="45%" alt="GitHub Stats"   />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=highcontrast&hide_border=false" width="45%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalawasthi&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" width="45%" alt="languages graph"  />
 </div>
 
 <hr>
