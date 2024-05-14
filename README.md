@@ -1,4 +1,4 @@
-<img src="header.png">
+![header](https://github.com/nihalawasthi/nihalawasthi/assets/137594290/89ddd4d5-97ac-4a8c-ba70-f7aab2ac3634)
 <p align="center">
   <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There..++;I+am;Computer+Science+Student;DevSecOps++;Full+Stack+Developer;CTF+Newbie;"></a>
 </p>
