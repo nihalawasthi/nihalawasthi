@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am;Computer+Science+Student;DevSecOps++;Full+Stack+Developer;"></a>
 </p>
-
 <div style = "margin-bottom:10px;"><h1>
   <img src="about_me.gif" width="50px" style="margin-right: 20px;"><b>About Me </b>
 </h1>
