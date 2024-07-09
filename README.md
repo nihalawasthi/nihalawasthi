@@ -83,5 +83,6 @@ I'm a CyberSecurity student at VIT Bhopal university India with a passion for Et
 <h2>GitHub Trophies</h2>
 
 ![trophy](https://github-trophy.vercel.app/?username=nihalawasthi)
-![yhype](https://hit.yhype.me/github/profile?user_id=137594290)
+
+![](https://hit.yhype.me/github/profile?user_id=137594290)
 </div>
