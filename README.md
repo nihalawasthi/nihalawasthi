@@ -1,5 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
+
 ![header](https://github.com/user-attachments/assets/c371fbc3-60ff-4fe1-be8a-23ab03aeafde)
+
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
