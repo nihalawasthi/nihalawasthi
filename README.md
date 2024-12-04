@@ -14,7 +14,7 @@ I'm a CyberSecurity student at VIT Bhopal university India with a passion for Et
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=nihalawasthi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalawasthi&theme=react-dark&hide_border=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalawasthi&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
 </div>
 
 </div>
