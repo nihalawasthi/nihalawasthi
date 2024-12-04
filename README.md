@@ -10,10 +10,11 @@
 I'm a CyberSecurity student at VIT Bhopal university India with a passion for Ethical Hacking, Blockchains, and Reverse Engineering. I am also a Python, Web3 developer. There are many things i love related to IT and fun.
 
 <hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalawasthi&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=tokyonight" height="150" />
-</p>
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalawasthi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
+</div>
 
 </div>
 
