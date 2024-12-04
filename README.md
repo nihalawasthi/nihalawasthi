@@ -1,11 +1,9 @@
 ![header](https://github.com/user-attachments/assets/c371fbc3-60ff-4fe1-be8a-23ab03aeafde)
 
-<p align="center">
-  <a href="https://github.com/nihalawasthi"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am;Computer+Science+Student;DevSecOps++;Full+Stack+Developer;"></a>
-</p>
-<div style = "margin-bottom:10px;"><h1>
-  <img src="about_me.gif" width="50px" style="margin-right: 20px;"><b>About Me </b>
-</h1>
+<div>
+  <h1>
+    <img src="about_me.gif" width="50px"><b> About Me </b>
+  </h1>
 </div>
 <hr>
 I'm a CyberSecurity student at VIT Bhopal university India with a passion for Ethical Hacking, Blockchains, and Reverse Engineering. I am also a Python, Web3 developer. There are many things i love related to IT and fun.
