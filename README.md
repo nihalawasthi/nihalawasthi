@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 
 ![header](https://github.com/user-attachments/assets/c371fbc3-60ff-4fe1-be8a-23ab03aeafde)
 
