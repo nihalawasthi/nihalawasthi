@@ -21,8 +21,8 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 <hr>
 
-<div style="display: flex;">
-  <table style="display: inline-block;">
+<table style="display: flex;">
+ <tr><td><table style="display: inline;">
     <tr>
       <th>Category</th>
       <th>Skills</th>
@@ -62,7 +62,7 @@
         <img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub Pages"> &nbsp;
       </td>
     </tr>
-  </table>
+  </table></td><td>
   <table style="display: inline-block;">
     <tr>
       <th>Category</th>
@@ -104,5 +104,5 @@
         <img src="https://img.icons8.com/ios/50/ffffff/markdown.png" width="40" alt="Markdown">&nbsp;
       </td>
     </tr>
-  </table>
-</div>
+  </table></td></tr>
+</table>
