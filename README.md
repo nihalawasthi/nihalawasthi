@@ -21,7 +21,7 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 <hr>
 
-<table style="display: flex;">
+<table border="none" style="display: flex;">
  <tr><td><table style="display: inline;">
     <tr>
       <th>Category</th>
