@@ -21,7 +21,7 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 <hr>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th>Category</th>
     <th>Skills</th>
