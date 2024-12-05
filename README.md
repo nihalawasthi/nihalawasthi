@@ -23,7 +23,7 @@
 
 <table align="center">
   <tr>
-    <td style="width: 50%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;  vertical-align: top;">
       <table>
         <tr>
           <th>Category</th>
@@ -72,7 +72,7 @@
         </tr>
       </table>
     </td>
-    <td style="width: 50%; padding: 10px;">
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
       <table>
         <tr>
           <th>Category</th>
