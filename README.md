@@ -6,9 +6,10 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
-<hr>
 🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
-<hr>
+
+---
+
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalawasthi&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
   &nbsp;
