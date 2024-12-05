@@ -21,9 +21,9 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 <hr>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td style="width: 50%; padding: 10px;  vertical-align: top;">
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
       <table>
         <tr>
           <th>Category</th>
