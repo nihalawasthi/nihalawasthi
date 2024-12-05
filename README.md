@@ -7,7 +7,9 @@
 </h1>
 </div>
 <hr>
-I'm a CyberSecurity student at VIT Bhopal university India with a passion for Ethical Hacking, Blockchains, and Reverse Engineering. I am also a Python, Web3 developer. There are many things i love related to IT and fun.
+👋 Hi there!
+
+🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
 
 <hr>
 <div align="center">  
