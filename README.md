@@ -83,6 +83,5 @@
 <hr>
 
 <h2>GitHub Trophies</h2>
-
-![trophy](https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10)
+<div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 </div>
