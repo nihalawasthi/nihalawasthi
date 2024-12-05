@@ -22,7 +22,7 @@
 <hr>
 
 <table border="none" style="display: flex;">
- <tr><td><table style="display: inline;">
+ <tr><td><table width="45%">
     <tr>
       <th>Category</th>
       <th>Skills</th>
@@ -63,7 +63,7 @@
       </td>
     </tr>
   </table></td><td>
-  <table style="display: inline-block;">
+  <table width="45%">
     <tr>
       <th>Category</th>
       <th>Skills</th>
