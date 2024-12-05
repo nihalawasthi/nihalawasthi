@@ -63,13 +63,6 @@
             <img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub Pages"> &nbsp;
           </td>
         </tr>
-        <tr>
-          <td><b>AI/Automation</b></td>
-          <td>
-            <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" width="40" alt="AI Assistant"> &nbsp;
-            <img src="https://img.icons8.com/?size=100&id=419&format=png&color=ffffff" width="40" alt="Scripting Automation"> &nbsp;
-          </td>
-        </tr>
       </table>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
@@ -77,6 +70,13 @@
         <tr>
           <th>Category</th>
           <th>Skills</th>
+        </tr>
+        <tr>
+          <td><b>AI/Automation</b></td>
+          <td>
+            <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" width="40" alt="AI Assistant"> &nbsp;
+            <img src="https://img.icons8.com/?size=100&id=419&format=png&color=ffffff" width="40" alt="Scripting Automation"> &nbsp;
+          </td>
         </tr>
         <tr>
           <td><b>Operating Systems</b></td>
@@ -94,12 +94,6 @@
             <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" width="40" alt="HTML5"> &nbsp;
             <img src="https://img.icons8.com/ios/50/ffffff/css3.png" width="40" alt="CSS3"> &nbsp;
             <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" width="40" alt="JavaScript"> &nbsp;
-          </td>
-        </tr>
-        <tr>
-          <td><b>Cloud Hosting</b></td>
-          <td>
-            <img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub Pages"> &nbsp;
           </td>
         </tr>
         <tr>
