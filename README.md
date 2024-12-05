@@ -21,10 +21,7 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
 <hr>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <table>
+<table width="45%">
         <tr>
           <th>Category</th>
           <th>Skills</th>
@@ -64,9 +61,7 @@
           </td>
         </tr>
       </table>
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <table>
+      <table width=50%">
         <tr>
           <th>Category</th>
           <th>Skills</th>
@@ -105,6 +100,3 @@
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
